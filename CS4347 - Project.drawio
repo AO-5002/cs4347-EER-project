@@ -1219,7 +1219,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="3a98uWZzszZCyhy2pn7g" name="Dependency Diagram">
-    <mxGraphModel dx="694" dy="477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="461" dy="488" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1312,7 +1312,7 @@
         <mxCell id="Bz8nWg9i7QDZGXy3OCtt-57" parent="1" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="rating_score" vertex="1">
           <mxGeometry height="30" width="80" x="750" y="800" as="geometry" />
         </mxCell>
-        <mxCell id="Bz8nWg9i7QDZGXy3OCtt-58" parent="1" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="coment_content" vertex="1">
+        <mxCell id="Bz8nWg9i7QDZGXy3OCtt-58" parent="1" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="comment_content" vertex="1">
           <mxGeometry height="30" width="110" x="850" y="800" as="geometry" />
         </mxCell>
         <mxCell id="Bz8nWg9i7QDZGXy3OCtt-62" parent="1" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="&lt;u&gt;book_id&lt;/u&gt;" vertex="1">
